@@ -1,4 +1,6 @@
-body {}
+body {
+    background-color: black;
+}
 
 header {}
 
@@ -10,3 +12,6 @@ div {}
 
 footer {}
 
+.haterkep {
+    background-image: url(../Képek/fantasy-art-artwork-dungeon-wallpaper.webp);
+}

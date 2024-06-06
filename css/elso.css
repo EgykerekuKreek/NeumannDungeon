@@ -61,6 +61,15 @@ footer{
     font-weight: bolder;
 }
 
+.leírás{
+    position: absolute;top: 850px;left: 200px;
+    width: 1100px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+
 .barbarkep1{
     position: absolute;top: 150px;left: 0px;
 }

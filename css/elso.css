@@ -61,10 +61,17 @@ footer{
     font-weight: bolder;
 }
 
-#besti {
+#besti{
     color: cadetblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bolder;
+}
+
+.Bfej{
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    text-align: center;
 }
 
 .leírás{
@@ -75,6 +82,46 @@ footer{
     font-weight: bold;
 }
 
+.besti1{
+    width: 300px;
+}
+
+.besti2{
+    width: 300px;
+}
+
+.besti3{
+    width: 300px;
+}
+
+.besti4{
+    width: 300px;
+}
+
+.besti5{
+    width: 300px;
+}
+
+
+.besti6{
+    width: 300px;
+}
+
+.besti7{
+    width: 300px;
+}
+
+.besti8{
+    width: 300px;
+}
+
+#Töri{
+    position: absolute;top: 850px;left: 200px;
+    width: 1100px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
 
 .barbarkep1{
     position: absolute;top: 150px;left: 0px;
@@ -278,6 +325,214 @@ footer{
 
 .wdokiszöveg8{
     position: absolute;top: 7800px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.warkep1{
+    position: absolute;top: 8320px;left: 170px;
+    width: 135px;
+}
+
+.warszöveg1{
+    position: absolute;top: 8300px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.warkep2{
+    position: absolute;top: 8820px;left: 170px;
+    width: 135px;
+}
+
+.warszöveg2{
+    position: absolute;top: 8800px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.warkep3{
+    position: absolute;top: 9320px;left: 170px;
+    width: 135px;
+}
+
+.warszöveg3{
+    position: absolute;top: 9300px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.warkep4{
+    position: absolute;top: 9820px;left: 170px;
+    width: 135px;
+}
+
+.warszöveg4{
+    position: absolute;top: 9800px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.warkep5{
+    position: absolute;top: 10320px;left: 170px;
+    width: 135px;
+}
+
+.warszöveg5{
+    position: absolute;top: 10300px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.warkep6{
+    position: absolute;top: 10820px;left: 170px;
+    width: 135px;
+}
+
+.warszöveg6{
+    position: absolute;top: 10800px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.warkep7{
+    position: absolute;top: 11320px;left: 170px;
+    width: 135px;
+}
+
+.warszöveg7{
+    position: absolute;top: 11300px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.warkep8{
+    position: absolute;top: 11820px;left: 170px;
+    width: 135px;
+}
+
+.warszöveg8{
+    position: absolute;top: 11800px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.rabkep1{
+    position: absolute;top: 12320px;left: 170px;
+    width: 135px;
+}
+
+.wrabszöveg1{
+    position: absolute;top: 12300px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.rabkep2{
+    position: absolute;top: 12820px;left: 170px;
+    width: 135px;
+}
+
+.wrabszöveg2{
+    position: absolute;top: 12800px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.rabkep3{
+    position: absolute;top: 13320px;left: 170px;
+    width: 135px;
+}
+
+.wrabszöveg3{
+    position: absolute;top: 13300px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.rabkep4{
+    position: absolute;top: 13820px;left: 170px;
+    width: 135px;
+}
+
+.wrabszöveg4{
+    position: absolute;top: 13800px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.rabkep5{
+    position: absolute;top: 14320px;left: 170px;
+    width: 135px;
+}
+
+.wrabszöveg5{
+    position: absolute;top: 14300px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.rabkep6{
+    position: absolute;top: 14820px;left: 170px;
+    width: 135px;
+}
+
+.wrabszöveg6{
+    position: absolute;top: 14800px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.rabkep7{
+    position: absolute;top: 15150px;left: 20px;
+    width: 435px;
+}
+
+.wrabszöveg7{
+    position: absolute;top: 15300px;left: 400px;
+    width: 600px;
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.rabkep8{
+    position: absolute;top: 15820px;left: 170px;
+    width: 135px;
+}
+
+.wrabszöveg8{
+    position: absolute;top: 15800px;left: 400px;
     width: 600px;
     color: bisque;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;

@@ -61,6 +61,12 @@ footer{
     font-weight: bolder;
 }
 
+#besti {
+    color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
 .leírás{
     position: absolute;top: 850px;left: 200px;
     width: 1100px;
